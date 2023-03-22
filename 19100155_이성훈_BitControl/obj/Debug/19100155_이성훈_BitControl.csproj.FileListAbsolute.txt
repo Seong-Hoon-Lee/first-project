@@ -1,0 +1,11 @@
+C:\Users\seonghoonlee\source\repos\19100155_이성훈_BitControl\19100155_이성훈_BitControl\bin\Debug\19100155_이성훈_BitControl.exe.config
+C:\Users\seonghoonlee\source\repos\19100155_이성훈_BitControl\19100155_이성훈_BitControl\bin\Debug\19100155_이성훈_BitControl.exe
+C:\Users\seonghoonlee\source\repos\19100155_이성훈_BitControl\19100155_이성훈_BitControl\bin\Debug\19100155_이성훈_BitControl.pdb
+C:\Users\seonghoonlee\source\repos\19100155_이성훈_BitControl\19100155_이성훈_BitControl\obj\Debug\19100155_이성훈_BitControl.csproj.AssemblyReference.cache
+C:\Users\seonghoonlee\source\repos\19100155_이성훈_BitControl\19100155_이성훈_BitControl\obj\Debug\19100155_이성훈_BitControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\seonghoonlee\source\repos\19100155_이성훈_BitControl\19100155_이성훈_BitControl\obj\Debug\_19100155_이성훈_BitControl.Form1.resources
+C:\Users\seonghoonlee\source\repos\19100155_이성훈_BitControl\19100155_이성훈_BitControl\obj\Debug\_19100155_이성훈_BitControl.Properties.Resources.resources
+C:\Users\seonghoonlee\source\repos\19100155_이성훈_BitControl\19100155_이성훈_BitControl\obj\Debug\19100155_이성훈_BitControl.csproj.GenerateResource.cache
+C:\Users\seonghoonlee\source\repos\19100155_이성훈_BitControl\19100155_이성훈_BitControl\obj\Debug\19100155_이성훈_BitControl.csproj.CoreCompileInputs.cache
+C:\Users\seonghoonlee\source\repos\19100155_이성훈_BitControl\19100155_이성훈_BitControl\obj\Debug\19100155_이성훈_BitControl.exe
+C:\Users\seonghoonlee\source\repos\19100155_이성훈_BitControl\19100155_이성훈_BitControl\obj\Debug\19100155_이성훈_BitControl.pdb
